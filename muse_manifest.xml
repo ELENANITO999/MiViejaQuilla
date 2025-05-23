@@ -1,0 +1,590 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="miviejabarranquilla.com" resolutions="1x" timestamp="1748017384769">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-p_g_-maestra.css" crc="369240177" ref="galeria:nosotros:agradecimiento:gastronomía:index:conoce"/>
+    <file name="galeria.css" crc="185351033" ref="galeria"/>
+    <file name="nosotros.css" crc="57690747" ref="nosotros"/>
+    <file name="agradecimiento.css" crc="80605561" ref="agradecimiento"/>
+    <file name="gastronom_a.css" crc="48361040" ref="gastronomía"/>
+    <file name="index.css" crc="138104126" ref="index"/>
+    <file name="conoce.css" crc="4232459217" ref="conoce"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>conoce:phone>gastronomía:phone>galeria:phone>nosotros:phone>agradecimiento:tablet>index:tablet>conoce:tablet>gastronomía:tablet>galeria:tablet>nosotros:tablet>agradecimiento:index:conoce:galeria:nosotros:agradecimiento:gastronomía"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:phone>conoce:phone>gastronomía:phone>galeria:phone>nosotros:phone>agradecimiento:tablet>index:tablet>conoce:tablet>gastronomía:tablet>galeria:tablet>nosotros:tablet>agradecimiento:index:conoce:galeria:nosotros:agradecimiento:gastronomía"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>conoce:phone>gastronomía:phone>galeria:phone>nosotros:phone>agradecimiento:tablet>index:tablet>conoce:tablet>gastronomía:tablet>galeria:tablet>nosotros:tablet>agradecimiento:index:conoce:galeria:nosotros:agradecimiento:gastronomía"/>
+    <file name="museconfig.js" crc="3936894949" ref="phone>index:phone>conoce:phone>gastronomía:phone>galeria:phone>nosotros:phone>agradecimiento:tablet>index:tablet>conoce:tablet>gastronomía:tablet>galeria:tablet>nosotros:tablet>agradecimiento:index:conoce:galeria:nosotros:agradecimiento:gastronomía"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:phone>conoce:phone>gastronomía:phone>galeria:phone>nosotros:phone>agradecimiento:tablet>index:tablet>conoce:tablet>gastronomía:tablet>galeria:tablet>nosotros:tablet>agradecimiento:index:conoce:galeria:nosotros:agradecimiento:gastronomía"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="phone>index:phone>conoce:phone>gastronomía:phone>galeria:phone>nosotros:phone>agradecimiento:tablet>index:tablet>conoce:tablet>gastronomía:tablet>galeria:tablet>nosotros:tablet>agradecimiento:index:conoce:galeria:nosotros:agradecimiento:gastronomía"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="phone>index:phone>conoce:phone>gastronomía:phone>galeria:phone>nosotros:phone>agradecimiento:tablet>index:tablet>conoce:tablet>gastronomía:tablet>galeria:tablet>nosotros:tablet>agradecimiento:index:conoce:galeria:nosotros:agradecimiento:gastronomía"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>conoce:phone>gastronomía:phone>galeria:phone>nosotros:phone>agradecimiento:tablet>index:tablet>conoce:tablet>gastronomía:tablet>galeria:tablet>nosotros:tablet>agradecimiento:index:conoce:galeria:nosotros:agradecimiento:gastronomía"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:phone>conoce:phone>gastronomía:phone>galeria:phone>nosotros:phone>agradecimiento:tablet>index:tablet>conoce:tablet>gastronomía:tablet>galeria:tablet>nosotros:tablet>agradecimiento:index:conoce:galeria:nosotros:agradecimiento:gastronomía"/>
+    <file name="webpro.js" crc="3856315280" ref="phone>conoce:phone>gastronomía:phone>galeria:phone>nosotros:tablet>conoce:tablet>gastronomía:tablet>galeria:tablet>nosotros:conoce:galeria:nosotros:gastronomía"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="phone>conoce:phone>gastronomía:phone>galeria:tablet>conoce:tablet>gastronomía:tablet>galeria:conoce:galeria:gastronomía"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="phone>conoce:phone>gastronomía:phone>galeria:tablet>conoce:tablet>gastronomía:tablet>galeria:conoce:galeria:gastronomía"/>
+    <file name="touchswipe.js" crc="3888935200" ref="phone>conoce:phone>gastronomía:phone>galeria:tablet>conoce:tablet>gastronomía:tablet>galeria:conoce:galeria:gastronomía"/>
+    <file name="form_check.php" crc="4050423521" ref="phone>nosotros"/>
+    <file name="form_process.php" crc="3946589668" ref="phone>nosotros"/>
+    <file name="form-u6446.php" crc="178920075" ref="phone>nosotros"/>
+    <file name="form-u6123.php" crc="339632603" ref="tablet>nosotros"/>
+    <file name="form-u2088.php" crc="4169666493" ref="nosotros"/>
+  </folder>
+  <folder name="images">
+    <file name="boton amarillo.png" crc="420339054" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mi vieja barranquilla_mesa de trabajo 1.png" crc="3973113711" seo="true" ref="phone>index:phone>conoce:phone>gastronomía:phone>galeria:phone>nosotros:phone>agradecimiento">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gastronomía" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="agradecimiento" alt=""/>
+    </file>
+    <file name="captura de pantalla 2025-05-16 105718760x375.jpg" crc="4060177366" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="siiii290x170.png" crc="4186240313" seo="true" ref="phone>conoce">
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="imagen pegada 197x765.jpg" crc="4096528567" seo="true" ref="phone>conoce:conoce">
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="imagen pegada 298x298164x164.jpg" crc="402886932" seo="true" ref="phone>conoce">
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="carnaval-de-barranquilla-cuando-es-y-que-se-celebra-2024-1373x249.png" crc="4187989827" seo="true" ref="phone>conoce">
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="u3841-5.png" crc="3767428057" ref="phone>conoce"/>
+    <file name="recurso 1.png" crc="447949027" seo="true" ref="phone>conoce:tablet>conoce:conoce">
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="imagen pegada 197x7652.jpg" crc="330278979" seo="true" ref="phone>conoce:phone>gastronomía:tablet>conoce:tablet>gastronomía:conoce">
+      <caption webpage="gastronomía" alt=""/>
+      <caption webpage="gastronomía" alt=""/>
+      <caption webpage="gastronomía" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="imagen pegada 313x313109x109.jpg" crc="423999953" seo="true" ref="phone>conoce">
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="imagen pegada 313x313150x150.jpg" crc="3780236306" seo="true" ref="phone>conoce">
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="imagen pegada 197x7653.jpg" crc="529217118" seo="true" ref="phone>conoce:phone>gastronomía:tablet>conoce:tablet>gastronomía:conoce">
+      <caption webpage="gastronomía" alt=""/>
+      <caption webpage="gastronomía" alt=""/>
+      <caption webpage="gastronomía" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="imagen pegada 313x313200x200.jpg" crc="358031184" seo="true" ref="phone>conoce">
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="u3871-13.png" crc="327090794" ref="phone>conoce"/>
+    <file name="ttfxezwiijbedipnp5odhcr5ue462x458.png" crc="3965004594" seo="true" ref="phone>conoce">
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="cuadro.svg" crc="4149819086" seo="true" ref="phone>conoce:tablet>conoce:conoce">
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="cuadro_poster_.png" crc="3839633277" ref="phone>conoce"/>
+    <file name="barranquilla-letras-e1649791960573-u3864-fr.jpg" crc="3820952292" ref="phone>conoce"/>
+    <file name="iglesia-de-san-nicolas-barranquilla_0-u3862-fr.jpg" crc="4067807225" ref="phone>conoce"/>
+    <file name="plaza-san-nicolas-u3863-fr.jpg" crc="435020233" ref="phone>conoce"/>
+    <file name="flecha 2.png" crc="288723065" seo="true" ref="phone>conoce:tablet>conoce:conoce">
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="flecha.png" crc="315219547" seo="true" ref="phone>conoce:tablet>conoce:conoce">
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="recurso 5.png" crc="409234513" seo="true" ref="phone>conoce:tablet>conoce:conoce">
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="8539311407_f19bb81b76_b156x235.png" crc="4043507218" seo="true" ref="phone>conoce">
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="cumbia-declarada-patrimonio-nacional_1286x191.jpg" crc="30520104" seo="true" ref="phone>conoce">
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="fondo -recuperado-_mesa de trabajo 1 copia 3.jpg" crc="4261554547" ref="phone>conoce:tablet>conoce:conoce">
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="recurso 2.png" crc="4081170312" seo="true" ref="phone>gastronomía:tablet>gastronomía:gastronomía">
+      <caption webpage="gastronomía" alt=""/>
+      <caption webpage="gastronomía" alt=""/>
+      <caption webpage="gastronomía" alt=""/>
+    </file>
+    <file name="imagen pegada 313x31391x91.jpg" crc="72265808" seo="true" ref="phone>gastronomía">
+      <caption webpage="gastronomía" alt=""/>
+      <caption webpage="gastronomía" alt=""/>
+    </file>
+    <file name="u6668-15.png" crc="146216116" ref="phone>gastronomía"/>
+    <file name="imagen pegada 298x298206x206.jpg" crc="3923248468" seo="true" ref="phone>gastronomía">
+      <caption webpage="gastronomía" alt=""/>
+    </file>
+    <file name="u6669-6.png" crc="479031590" ref="phone>gastronomía"/>
+    <file name="salchipapa-fest-2022-la-busqueda-del-mejor-salchipapas-de-colombia (1) (2)338x182.png" crc="4208280974" seo="true" ref="phone>gastronomía">
+      <caption webpage="gastronomía" alt=""/>
+    </file>
+    <file name="recurso 22.png" crc="41417982" seo="true" ref="phone>gastronomía:tablet>gastronomía:gastronomía">
+      <caption webpage="gastronomía" alt=""/>
+      <caption webpage="gastronomía" alt=""/>
+      <caption webpage="gastronomía" alt=""/>
+    </file>
+    <file name="imagen pegada 313x313174x174.jpg" crc="3790101515" seo="true" ref="phone>gastronomía">
+      <caption webpage="gastronomía" alt=""/>
+      <caption webpage="gastronomía" alt=""/>
+    </file>
+    <file name="imagen pegada 313x313209x209.jpg" crc="3818751484" seo="true" ref="phone>gastronomía">
+      <caption webpage="gastronomía" alt=""/>
+    </file>
+    <file name="mote-de-queso-in-a-bowl-free-photo381x254.jpg" crc="36481933" seo="true" ref="phone>gastronomía">
+      <caption webpage="gastronomía" alt=""/>
+    </file>
+    <file name="arroz-de-lisa-crop-u6684.jpg" crc="185893725" seo="true" ref="phone>gastronomía">
+      <caption webpage="gastronomía" alt=""/>
+    </file>
+    <file name="sancocho-de-carne-1593-crop-u6688.jpg" crc="4039151955" seo="true" ref="phone>gastronomía">
+      <caption webpage="gastronomía" alt=""/>
+    </file>
+    <file name="imagen pegada 313x313226x226.jpg" crc="4255837213" seo="true" ref="phone>gastronomía">
+      <caption webpage="gastronomía" alt=""/>
+      <caption webpage="gastronomía" alt=""/>
+    </file>
+    <file name="fondo_mesa de trabajo 1 copia 3.svg" crc="330590084" ref="phone>gastronomía:phone>nosotros:phone>agradecimiento:tablet>index:tablet>gastronomía:tablet>nosotros:tablet>agradecimiento:nosotros:agradecimiento:gastronomía"/>
+    <file name="fondo_mesa de trabajo 1 copia 3_poster_u3763.png" crc="3966702695" ref="phone>gastronomía:phone>nosotros:phone>agradecimiento:tablet>index:tablet>gastronomía:tablet>nosotros:tablet>agradecimiento:nosotros:agradecimiento:gastronomía"/>
+    <file name="recurso 3348x76.png" crc="3880198592" seo="true" ref="phone>galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="recurso 23.png" crc="3978309794" seo="true" ref="phone>galeria:phone>nosotros:phone>agradecimiento:tablet>galeria:tablet>nosotros:tablet>agradecimiento:galeria">
+      <caption webpage="agradecimiento" alt=""/>
+      <caption webpage="agradecimiento" alt=""/>
+      <caption webpage="agradecimiento" alt=""/>
+      <caption webpage="agradecimiento" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="recurso 5235x236.png" crc="3911365320" seo="true" ref="phone>galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="recurso 5257x258.png" crc="3911365320" seo="true" ref="phone>galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="recurso 3235x236.png" crc="3940965278" seo="true" ref="phone>galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="recurso 3185x185.png" crc="3940965278" seo="true" ref="phone>galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="pxl_20250403_100108369244x183.jpg" crc="4227636479" seo="true" ref="phone>galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img20250403110018244x183.jpg" crc="4205602550" seo="true" ref="phone>galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="pxl_20250403_093302119 (1)243x183.jpg" crc="4259614717" seo="true" ref="phone>galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="u6958-4.png" crc="32820827" ref="phone>galeria"/>
+    <file name="recurso 3147x148.png" crc="3771711573" seo="true" ref="phone>galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="la-ventana-al-mundo375x260.jpg" crc="3764128733" seo="true" ref="phone>galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="malecon366x218.jpg" crc="73963109" seo="true" ref="phone>galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="catedral reina maría_1373x246.jpg" crc="181740666" seo="true" ref="phone>galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="oip.jpg" crc="3768793068" ref="phone>galeria:tablet>galeria:galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="imagen pegada 298x298123x123.jpg" crc="281728234" seo="true" ref="phone>nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="imagen pegada 313x313150x1502.jpg" crc="3985962139" seo="true" ref="phone>nosotros">
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="imagen pegada 313x313213x213.jpg" crc="402621877" seo="true" ref="phone>nosotros">
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="imagen pegada 298x298109x110.jpg" crc="447010579" seo="true" ref="phone>nosotros">
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="recurso 7.png" crc="4098918507" seo="true" ref="phone>nosotros:phone>agradecimiento:tablet>galeria:tablet>nosotros:tablet>agradecimiento:galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="agradecimiento" alt=""/>
+      <caption webpage="agradecimiento" alt=""/>
+    </file>
+    <file name="recurso 1328x79.png" crc="3960737422" seo="true" ref="phone>nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="istockphoto-1333685154-612x612332x243.jpg" crc="351719649" seo="true" ref="phone>nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="recurso 1 (1).png" crc="465262136" seo="true" ref="phone>agradecimiento:tablet>agradecimiento:agradecimiento">
+      <caption webpage="agradecimiento" alt=""/>
+      <caption webpage="agradecimiento" alt=""/>
+      <caption webpage="agradecimiento" alt=""/>
+    </file>
+    <file name="recursoski.png" crc="444488262" seo="true" ref="phone>agradecimiento:tablet>agradecimiento:agradecimiento">
+      <caption webpage="agradecimiento" alt=""/>
+      <caption webpage="agradecimiento" alt=""/>
+      <caption webpage="agradecimiento" alt=""/>
+    </file>
+    <file name="imagen pegada 298x298105x105.jpg" crc="4066209218" seo="true" ref="phone>agradecimiento">
+      <caption webpage="agradecimiento" alt=""/>
+    </file>
+    <file name="imagen pegada 313x313118x118.jpg" crc="461634683" seo="true" ref="phone>agradecimiento">
+      <caption webpage="agradecimiento" alt=""/>
+    </file>
+    <file name="imagen pegada 313x313106x106.jpg" crc="119763095" seo="true" ref="phone>agradecimiento">
+      <caption webpage="agradecimiento" alt=""/>
+    </file>
+    <file name="arrowmenudown.png" crc="262559161" ref="tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mi vieja barranquilla_mesa de trabajo 12.png" crc="310828010" seo="true" ref="tablet>index:tablet>conoce:tablet>gastronomía:tablet>galeria:tablet>nosotros:tablet>agradecimiento:index:conoce:galeria:nosotros:agradecimiento:gastronomía">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="gastronomía" alt=""/>
+      <caption webpage="gastronomía" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="agradecimiento" alt=""/>
+      <caption webpage="agradecimiento" alt=""/>
+    </file>
+    <file name="siiii.png" crc="117954581" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="recurso 12.png" crc="4039834343" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="carnaval-de-barranquilla-cuando-es-y-que-se-celebra-2024-1777x518.png" crc="18514929" seo="true" ref="tablet>conoce">
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="imagen pegada 313x313.jpg" crc="3957023407" seo="true" ref="tablet>conoce:conoce">
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="imagen pegada 298x298.jpg" crc="3903822015" seo="true" ref="tablet>conoce:tablet>nosotros:conoce">
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="siiii498x292.png" crc="117954581" seo="true" ref="tablet>conoce">
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="u4664-5.png" crc="385256626" ref="tablet>conoce"/>
+    <file name="barranquilla-letras-e1649791960573.jpg" crc="1302551" ref="tablet>conoce:conoce">
+      <caption webpage="conoce" alt=""/>
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="iglesia-de-san-nicolas-barranquilla_0-u4685-fr.jpg" crc="63097589" ref="tablet>conoce"/>
+    <file name="plaza-san-nicolas-u4686-fr.jpg" crc="4263381892" ref="tablet>conoce"/>
+    <file name="imagen pegada 313x313116x116.jpg" crc="128402448" seo="true" ref="tablet>conoce">
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="8539311407_f19bb81b76_b228x344.png" crc="67046186" seo="true" ref="tablet>conoce">
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="imagen pegada 313x313121x121.jpg" crc="3974312214" seo="true" ref="tablet>conoce">
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="u4694-13.png" crc="4274042690" ref="tablet>conoce"/>
+    <file name="ttfxezwiijbedipnp5odhcr5ue415x411.png" crc="505150153" seo="true" ref="tablet>conoce">
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="cumbia-declarada-patrimonio-nacional_1503x335.jpg" crc="4105573885" seo="true" ref="tablet>conoce">
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="imagen pegada 313x313195x195.jpg" crc="3872454" seo="true" ref="tablet>conoce">
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="imagen pegada 298x298136x136.jpg" crc="3829120279" seo="true" ref="tablet>conoce">
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="u5087-15.png" crc="3778368907" ref="tablet>gastronomía"/>
+    <file name="salchipapa-fest-2022-la-busqueda-del-mejor-salchipapas-de-colombia (1) (2)761x410.png" crc="383284827" seo="true" ref="tablet>gastronomía">
+      <caption webpage="gastronomía" alt=""/>
+    </file>
+    <file name="imagen pegada 313x313202x202.jpg" crc="491392156" seo="true" ref="tablet>gastronomía">
+      <caption webpage="gastronomía" alt=""/>
+    </file>
+    <file name="imagen pegada 298x298134x134.jpg" crc="4008497570" seo="true" ref="tablet>gastronomía">
+      <caption webpage="gastronomía" alt=""/>
+    </file>
+    <file name="u5088-6.png" crc="69453432" ref="tablet>gastronomía"/>
+    <file name="mote-de-queso-in-a-bowl-free-photo.jpg" crc="534357042" seo="true" ref="tablet>gastronomía:gastronomía">
+      <caption webpage="gastronomía" alt=""/>
+      <caption webpage="gastronomía" alt=""/>
+    </file>
+    <file name="arroz-de-lisa-crop-u5108.jpg" crc="324007776" seo="true" ref="tablet>gastronomía">
+      <caption webpage="gastronomía" alt=""/>
+    </file>
+    <file name="sancocho-de-carne-1593-crop-u5104.jpg" crc="3896354829" seo="true" ref="tablet>gastronomía">
+      <caption webpage="gastronomía" alt=""/>
+    </file>
+    <file name="imagen pegada 313x313126x126.jpg" crc="4083167223" seo="true" ref="tablet>gastronomía">
+      <caption webpage="gastronomía" alt=""/>
+    </file>
+    <file name="recurso 3.png" crc="3940965278" seo="true" ref="tablet>galeria:galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="recurso 4.png" crc="56642102" seo="true" ref="tablet>galeria:galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="la-ventana-al-mundo.jpg" crc="421087780" seo="true" ref="tablet>galeria:galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="malecon.jpg" crc="4188055905" seo="true" ref="tablet>galeria:galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="catedral reina maría_1.jpg" crc="4233079515" seo="true" ref="tablet>galeria:galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="pxl_20250403_100108369248x186.jpg" crc="399089912" seo="true" ref="tablet>galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img20250403110018247x186.jpg" crc="4183991342" seo="true" ref="tablet>galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="pxl_20250403_093302119 (1)248x186.jpg" crc="4080933221" seo="true" ref="tablet>galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="recurso 3633x137.png" crc="3880198592" seo="true" ref="tablet>galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="u5348-4.png" crc="297727161" ref="tablet>galeria"/>
+    <file name="u5349-4.png" crc="3975864052" ref="tablet>galeria"/>
+    <file name="recurso 52.png" crc="3911365320" seo="true" ref="tablet>galeria:galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="a-a-en-solepia.jpg" crc="3925570090" ref="tablet>galeria:galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="tm6xrbqgjjbyhikgjobvaxbt6e.jpg" crc="459015299" ref="tablet>galeria:galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="6ohw3mzuv5hhbjma6uktobf67y.jpg" crc="4017149497" ref="tablet>galeria:galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="jjn.jpg" crc="476401674" ref="tablet>galeria:galeria">
+      <caption webpage="galeria" alt=""/>
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="recurso 1449x108.png" crc="3960737422" seo="true" ref="tablet>nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="istockphoto-1333685154-612x612439x321.jpg" crc="4083530590" seo="true" ref="tablet>nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="imagen pegada 298x298170x170.jpg" crc="447569149" seo="true" ref="tablet>agradecimiento">
+      <caption webpage="agradecimiento" alt=""/>
+    </file>
+    <file name="captura de pantalla 2025-05-16 105718.jpg" crc="3889010087" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="carnaval-de-barranquilla-cuando-es-y-que-se-celebra-2024-1.png" crc="4155343670" seo="true" ref="conoce">
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="imagen pegada 313x3132.jpg" crc="4140108429" seo="true" ref="conoce">
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="siiii2.png" crc="117954581" seo="true" ref="conoce">
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="u563-5.png" crc="117519496" ref="conoce"/>
+    <file name="iglesia-de-san-nicolas-barranquilla_0.jpg" crc="133112829" ref="conoce">
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="plaza-san-nicolas.jpg" crc="405032656" ref="conoce">
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="8539311407_f19bb81b76_b.png" crc="169084711" seo="true" ref="conoce">
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="u1087-13.png" crc="159667749" ref="conoce"/>
+    <file name="ttfxezwiijbedipnp5odhcr5ue.png" crc="4224157784" seo="true" ref="conoce">
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="cumbia-declarada-patrimonio-nacional_1.jpg" crc="101087182" seo="true" ref="conoce">
+      <caption webpage="conoce" alt=""/>
+    </file>
+    <file name="recurso 32.png" crc="3880198592" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="u2897-4.png" crc="297727161" ref="galeria"/>
+    <file name="u3254-4.png" crc="3975864052" ref="galeria"/>
+    <file name="pxl_20250403_100108369.jpg" crc="4109561270" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="img20250403110018.jpg" crc="4058872686" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="pxl_20250403_093302119 (1).jpg" crc="3991315137" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="recurso 13.png" crc="450436176" seo="true" ref="galeria">
+      <caption webpage="galeria" alt=""/>
+    </file>
+    <file name="mi vieja barranquilla_mesa de trabajo 13.png" crc="4026822922" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="recurso 14.png" crc="3960737422" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="istockphoto-1333685154-612x612.jpg" crc="4005305438" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="u2510-15.png" crc="273700962" ref="gastronomía"/>
+    <file name="salchipapa-fest-2022-la-busqueda-del-mejor-salchipapas-de-colombia (1) (2).png" crc="190369150" seo="true" ref="gastronomía">
+      <caption webpage="gastronomía" alt=""/>
+    </file>
+    <file name="u2601-6.png" crc="4143847608" ref="gastronomía"/>
+    <file name="arroz-de-lisa-crop-u2971.jpg" crc="324007776" seo="true" ref="gastronomía">
+      <caption webpage="gastronomía" alt=""/>
+    </file>
+    <file name="sancocho-de-carne-1593-crop-u2968.jpg" crc="3896354829" seo="true" ref="gastronomía">
+      <caption webpage="gastronomía" alt=""/>
+    </file>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-p_g_-maestra.css" crc="4027662900" ref="tablet>galeria:tablet>gastronomía:tablet>conoce:tablet>agradecimiento:tablet>index:tablet>nosotros"/>
+      <file name="galeria.css" crc="423199131" ref="tablet>galeria"/>
+      <file name="gastronom_a.css" crc="4291246011" ref="tablet>gastronomía"/>
+      <file name="conoce.css" crc="4097418445" ref="tablet>conoce"/>
+      <file name="agradecimiento.css" crc="3893545299" ref="tablet>agradecimiento"/>
+      <file name="index.css" crc="174129325" ref="tablet>index"/>
+      <file name="nosotros.css" crc="286494507" ref="tablet>nosotros"/>
+    </folder>
+    <file name="index.html" crc="314130237" seo="true" mt="1747938378024" redirect="true"/>
+    <file name="conoce.html" crc="4088516619" seo="true" mt="1748014069080" redirect="true"/>
+    <file name="gastronomía.html" crc="499462037" seo="true" mt="1747943584006" redirect="true"/>
+    <file name="galeria.html" crc="3847403187" seo="true" mt="1748016108807" redirect="true"/>
+    <file name="nosotros.html" crc="246623606" seo="true" mt="1747942831756" redirect="true"/>
+    <file name="agradecimiento.html" crc="4076209445" seo="true" mt="1747943700556" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-p_g_-maestra.css" crc="4077407288" ref="phone>index:phone>nosotros:phone>agradecimiento:phone>galeria:phone>gastronomía:phone>conoce"/>
+      <file name="index.css" crc="188765356" ref="phone>index"/>
+      <file name="nosotros.css" crc="4285570057" ref="phone>nosotros"/>
+      <file name="agradecimiento.css" crc="4269900249" ref="phone>agradecimiento"/>
+      <file name="galeria.css" crc="4274315912" ref="phone>galeria"/>
+      <file name="gastronom_a.css" crc="4104159033" ref="phone>gastronomía"/>
+      <file name="conoce.css" crc="435628245" ref="phone>conoce"/>
+    </folder>
+    <file name="index.html" crc="4062712649" seo="true" mt="1747944604923" redirect="true"/>
+    <file name="conoce.html" crc="4170122779" seo="true" mt="1748014640378" redirect="true"/>
+    <file name="gastronomía.html" crc="4224502877" seo="true" mt="1748015935490" redirect="true"/>
+    <file name="galeria.html" crc="422760172" seo="true" mt="1748017266892" redirect="true"/>
+    <file name="nosotros.html" crc="257384899" seo="true" mt="1748011803299" redirect="true"/>
+    <file name="agradecimiento.html" crc="3877166993" seo="true" mt="1748011600304" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="37537778" seo="true" mt="1747937075688" redirect="true"/>
+  <file name="conoce.html" crc="45797712" seo="true" mt="1747936261839" redirect="true"/>
+  <file name="galeria.html" crc="115555623" seo="true" mt="1747936261909" redirect="true"/>
+  <file name="nosotros.html" crc="156905174" seo="true" mt="1747936261952" redirect="true"/>
+  <file name="agradecimiento.html" crc="193321001" seo="true" mt="1747936261993" redirect="true"/>
+  <file name="gastronomía.html" crc="4038147447" seo="true" mt="1747936261870" redirect="true"/>
+</manifest>
